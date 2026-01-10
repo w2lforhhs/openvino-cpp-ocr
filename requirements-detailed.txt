@@ -21,3 +21,5 @@ tqdm==4.66.1
 
 # 系统工具
 pathlib2==2.3.7
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
+werkzeug>=3.1.5 # not directly required, pinned by Snyk to avoid a vulnerability
