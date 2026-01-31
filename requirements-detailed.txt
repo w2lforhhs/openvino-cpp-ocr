@@ -21,3 +21,4 @@ tqdm==4.66.1
 
 # 系统工具
 pathlib2==2.3.7
+protobuf>=6.33.5 # not directly required, pinned by Snyk to avoid a vulnerability
